@@ -1,5 +1,5 @@
 # DeepLearning
-Proyecto final de la materia aprendizaje profundo referente al tema **Reconocimiento de Expresiones Faciales Mediante Inteligencia Artificial: Un Enfoque en la Detección de Emociones Caninas**, contiene los notebooks con los modelos comparados:
+Proyecto referente al tema **Reconocimiento de Expresiones Faciales Mediante Inteligencia Artificial: Un Enfoque en la Detección de Emociones Caninas**, contiene los notebooks con los modelos comparados:
 
 0. Preprocesamiento_01_rutaarchivo: en este notebook se realizar el preprocesameinto de los datos y la división de datos en train y test. Aquí se genera el archivo imagenes_procesadas_para_modelamiento.csv
    
